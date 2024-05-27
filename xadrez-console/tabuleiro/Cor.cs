@@ -1,12 +1,12 @@
 ﻿namespace tabuleiro;
 
-public enum Cor 
+public enum Cor
 {
-Branca,
-Preta,
-Azul,
-Verde,
-Amarela,
-Rosa,
-Laranja
+ Branca,
+ Preta,
+ Azul,
+ Verde,
+ Amarela,
+ Rosa,
+ Laranja
 }
