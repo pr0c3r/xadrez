@@ -14,10 +14,14 @@ public class Peca
         this.tab = tab;
         this.qtdeMovimento = 0;
     }
-
     public Peca(Tabuleiro tab, Cor cor)
     {
         this.tab = tab;
         this.cor = cor;
     }
+    public void incrementarQteMovimentos()
+    {
+        this.qtdeMovimento++;
+    }
+
 }
